@@ -44,7 +44,7 @@ statistical testing.
 
 | File | Description |
 |---|---|
-| `equity_factors.py` | Full analysis — cleaning, construction, metrics, charts, analysis |
+| `equity_factors.ipynb` | Full analysis — cleaning, construction, metrics, charts, analysis |
 | `prices_monthly.csv` | Month-end adjusted prices, STOXX 600 constituents |
 | `market_cap_monthly.csv` | Month-end market capitalisations |
 | `price_to_book_monthly.csv` | Month-end price-to-book ratios |
