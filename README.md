@@ -48,6 +48,16 @@ statistical testing.
 | `prices_monthly.csv` | Month-end adjusted prices, STOXX 600 constituents |
 | `market_cap_monthly.csv` | Month-end market capitalisations |
 | `price_to_book_monthly.csv` | Month-end price-to-book ratios |
+| `annualised_return.png` | Annualised returns plotly chart to show on GitHub |
+| `annualised_volatility.png` | Annualised volatility plotly chart to show on GitHub |
+| `cumulative_returns.png` | Cumulative returns plotly chart to show on GitHub |
+| `drawdown_underwater.png` | Drawdown underwater curve plotly chart to show on GitHub |
+| `max_drawdown.png` | Max drawdown plotly chart to show on GitHub |
+| `rolling_correlations.png` | Rolling correlations plotly chart to show on GitHub |
+| `rolling_returns.png` | Rolling returns plotly chart to show on GitHub |
+| `rolling_sharpe.png` | Rolling Sharpe ratio plotly chart to show on GitHub |
+| `rolling_volatility.png` | Rolling volatility plotly chart to show on GitHub |
+| `sharpe_ratio.png` | Sharpe ratio plotly chart to show on GitHub |
 
 ## Requirements
 ```
